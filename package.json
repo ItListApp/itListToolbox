@@ -3,8 +3,9 @@
   "displayName": "ItList Toolbox",
   "description": "Toolbox implementing ItList coding style",
   "version": "0.0.1",
-  "repository": "https://github.com/standup75/it-list-toolbox.git",
-  "publisher": "StanislasDuprey",
+  "repository": "https://github.com/ItListApp/itListToolbox.git",
+  "publisher": "ItList",
+  "author": "Stanislas Duprey",
   "icon": "images/icon.png",
   "engines": {
     "vscode": "^1.80.0"
